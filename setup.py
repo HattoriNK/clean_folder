@@ -3,7 +3,7 @@ from setuptools import setup, find_namespace_packages
 setup(name='clean_folder',
       version='0.9.0',
       description='script for clean folder',
-      url='https://github.com/HattoriNK',
+      url='https://github.com/HattoriNK/clean_folder',
       author='Hattori',
       author_email='lethalshot13@gmail.com',
       license='MIT',
